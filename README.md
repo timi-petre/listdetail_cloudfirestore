@@ -1,0 +1,2 @@
+# listdetail_cloudfirestore
+ 
